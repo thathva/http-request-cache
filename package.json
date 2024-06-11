@@ -1,6 +1,6 @@
 {
   "name": "http-request-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to cache HTTP GET requests using Node-cache and Axios",
   "main": "index.js",
   "scripts": {
